@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo $RANDOM
+echo $date
 
 echo "are we sure about this"
 
