@@ -2,4 +2,4 @@
 
 echo $RANDOM
 
-
+echo $(date)
