@@ -1,10 +1,13 @@
 #!/bin/bash
 
+
+
 rando=$RANDOM
+number=rando/11
 
-number=$rando/12
+echo number 
 
-echo $number
+
 
 
 echo "are we sure about this"
