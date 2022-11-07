@@ -3,9 +3,9 @@
 
 
 rando=$RANDOM
-number=rando/11
+number=$rando/11
 
-echo number 
+echo $number 
 
 
 
@@ -18,3 +18,6 @@ echo $(date)
 
 
 echo 'I HAVE NO HEAD!'
+
+
+echo "We love being on talapas!"
